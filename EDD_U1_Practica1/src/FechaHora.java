@@ -109,7 +109,7 @@ public class FechaHora {
             }
             else{
                   r=" A.M"; 
-                return f.hora+":"+f.minuto;
+                return f.hora+":"+f.minuto+r;
             }
         
             
